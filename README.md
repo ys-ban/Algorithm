@@ -8,4 +8,5 @@
 <li><a href="https://github.com/ys-ban/algorithm/blob/main/BOJ/seg_tree.cpp">seg_tree</li>
 <li><a href="https://github.com/ys-ban/algorithm/blob/main/BOJ/q1944.cpp">1944</li>
 <li><a href="https://github.com/ys-ban/algorithm/blob/main/BOJ/q4343.cpp">4343</li>
+<li><a href="https://github.com/ys-ban/algorithm/blob/main/BOJ/q7578.cpp">7578</li>
 </ul>

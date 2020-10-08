@@ -19,6 +19,8 @@ def make_list():
     nq_list = []
     for elem in dir_list :
         file_name = elem.split(".")[0]
+        if len(file_name)==0 :
+            continue
         if (file_name[0]=='q') :
             file_name = file_name[1:]
             name_split = file_name.split("_")
